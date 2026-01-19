@@ -12,5 +12,6 @@ Pembuatan View: Membuat VIEW clean_sales sebagai tabel virtual hasil akhir yang 
 
 Daftar File:
 data_cleaning_and_transformation.sql: Berisi semua kode SQL yang digunakan dalam proyek ini.
+(Mengolah data penjualan mentah menjadi dataset siap pakai menggunakan SQL (SQLite), mencakup data cleaning, standarisasi, dan validasi kualitas data.)
 chinook.db: File database untuk mencoba menjalankan script secara langsung.
 clean_sales.csv: Hasil data bersih yang sudah diolah
