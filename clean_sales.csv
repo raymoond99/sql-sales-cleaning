@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,customer_name,segment,city,state,product_id,product_name,category,sub_category,region,country,sales,quantity,discount,profit
+1005,2025-01-08,1,Andi Pratama,Consumer,Jakarta,DKI Jakarta,,,,,East,Indonesia,5000.0,1,0.0,600.0
+1003,2025-01-06,4,Dewi Anggraini,Consumer,Medan,Sumatera Utara,13,"Monitor 27""",TECHNOLOGY,Monitors,North,Indonesia,7000.0,1,0.2,900.0
+1002,2025-01-05,3,Citra Lestari,Home Office,Surabaya,Jawa Timur,12,Printer Ink,OFFICE SUPPLIES,Supplies,East,Indonesia,200.0,5,0.05,30.0
+1001,2025-01-03,2,Budi Santoso,Corporate,Bandung,Jawa Barat,11,Office Chair,FURNITURE,Chairs,West,Indonesia,3000.0,2,0.0,450.0
+1000,2025-01-02,1,Andi Pratama,Consumer,Jakarta,DKI Jakarta,10,Laptop Pro 14,TECHNOLOGY,Laptops,West,Indonesia,15000.0,1,0.1,2500.0
