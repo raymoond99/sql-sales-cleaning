@@ -11,6 +11,6 @@ Kontrol Kualitas Data: Membuat query untuk mendeteksi data duplikat dan mencari 
 Pembuatan View: Membuat VIEW clean_sales sebagai tabel virtual hasil akhir yang sudah bersih, sehingga jika ingin menarik data untuk laporan tidak perlu lagi menulis query yang panjang.
 
 Daftar File:
-script_cleaning.sql: Berisi semua kode SQL yang digunakan dalam proyek ini.
-
-database_sales.db: File database untuk mencoba menjalankan script secara langsung.
+data_cleaning_and_transformation.sql: Berisi semua kode SQL yang digunakan dalam proyek ini.
+chinook.db: File database untuk mencoba menjalankan script secara langsung.
+clean_sales.csv: Hasil data bersih yang sudah diolah
